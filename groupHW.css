@@ -94,12 +94,7 @@ display: flex;
 	font-size: 20px;
 }
 
-blue_text : hover  {
-	color: #1ce;
-	font-weight: bold;
-	font-size: 20px;
-	text-decoration: underline;
-}
+
 .top {
 	display: flex;
 	justify-content: space-around;
@@ -127,6 +122,7 @@ padding: 15px;
    } 
 a:hover { 
     text-decoration: underline;
+    color: #1ce;
 
    } 
 
