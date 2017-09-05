@@ -140,14 +140,14 @@ display: flex;
 .top {
 	display: flex;
 	justify-content: space-around;
-	padding: 15px 130px;
+	padding: 15px 110px;
 
 }
 
 .bottom {
 	display: flex;
 	justify-content: space-around;
-	padding: 40px 130px;
+	padding: 40px 110px;
 }
 .floating {
 float: left;
@@ -155,8 +155,9 @@ padding: 15px;
 }
 .textlorem {
 	width: 490px;
-	line-height: 24px;
+	line-height: 22px;
 	color: 	#808080;
+
 	
 }
  body > a {
