@@ -9,7 +9,7 @@ section {
 }
 
 .navbar {
-	margin-bottom: 0; 
+	margin-bottom: 0;
     border: none;
 }
 
@@ -158,21 +158,153 @@ padding: 15px;
 	line-height: 22px;
 	color: 	#808080;
 
-	
+
 }
  body > a {
-    text-decoration: none; 
-   } 
-a:hover { 
+    text-decoration: none;
+   }
+a:hover {
     text-decoration: underline;
     color: #1ce;
 
-   } 
+   }
 
    .maindiv {
    	margin-top: -85px;
    }
 
+
+	 .lastest_episodes {
+	   background-color: black;
+	   max-width: 1170px;
+	   margin: 0 auto;
+	   text-align: center;
+	 }
+
+
+	 .s7_h3 {
+	  text-align: center;
+	  color: white;
+	 	/*display: flex;*/
+	 	justify-content: space-around;
+	 	padding: 40px 110px;
+
+	 }
+
+	 .s7_cards {
+	   display: flex;
+	   justify-content: space-around;
+	   /*justify-content: center;*/
+	   align-items: center;
+	   text-align: left;
+	 }
+
+
+	 .s7_card-title {
+	   color: #1ce;
+	   text-align: left;
+	 }
+
+	 .s7_card-text {
+	   text-align: left;
+	   color: white;
+	 }
+
+	 .s7_read_more {
+	   color: #1ce;
+	 }
+
+	 #s7_order_entries {
+	   color: #1ce;
+	   display: flex;
+	   text-align: left;
+	   margin-top: 20px;
+	   margin-left: 43px;
+	 }
+
+	 .s7_button {
+	   width: 100%;
+	   text-align: center;
+	   padding-top: 20px;
+	   padding-bottom: 60px;
+	 }
+
+	 #s7_button_more {
+	   background-color: black;
+	   color: #1ce;
+	   border: 2px solid #1ce;
+	   padding: 10px 15px;
+	 }
+
+
+	 /*Section 7 start*/
+
+	 .popular_episodes {
+	   background-color: white;
+	   max-width: 1170px;
+	   margin: 0 auto;
+	   padding-top: 30px;
+	   padding-bottom: 30px;
+	   display: flex;
+	   justify-content: space-between;
+	 }
+
+	 .s8_cards_block {
+	   display: inline;
+	   justify-content: space-around;
+	   width: 680px;
+	 }
+
+	 .s8_mainh {
+	   text-align: left;
+	   font-size: 30px;
+	   color: #484848
+	 }
+
+	 .s8_block {
+	   display: flex;
+	   display: inline-flex;
+	 }
+
+	 .s8_title {
+	   text-align: start;
+	 }
+
+	 .s8_card {
+	   padding-left: 20px;
+	   width: 550px;
+	 }
+
+	 .s8_img {
+	   padding-bottom: 20px;
+	 }
+
+	 .s8_text {
+	   float: right;
+	   right: 0px;
+	   padding-left: 0%;
+	   text-align: left;
+	   display: inline-flex;
+	 }
+
+
+	 /* Section 8  */
+
+	 .s9_social {
+	   background-color: silver;
+	   width: 400px;
+	   padding-bottom: 30px;
+	 }
+
+	 .s9_title {
+	   text-align: left;
+	   background-color: white;
+	 }
+
+	 .s9_fb {
+	   color: #1ce;
+	   padding-left: 6px;
+	 }
 
   /* END OF SECOND PART */
 
